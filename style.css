@@ -16,7 +16,7 @@ table{
     padding-left: 5%;
     width:85px;
     cursor:pointer;
-    
+    border: 2px solid white;
  }
  .red{
     background:#E63434;
@@ -25,6 +25,7 @@ table{
     padding-left: 5%;
     width:85px;
     cursor:pointer;
+    border: 2px solid white;
  
 }
 .pink{
@@ -34,6 +35,7 @@ table{
     padding-left: 5%;
     width:85px;
     cursor:pointer;
+    border: 2px solid white;
  
 }
 .yellow{
@@ -43,6 +45,7 @@ table{
     padding-left: 5%;
     width:85px;
     cursor:pointer;
+    border: 2px solid white;
 
 }
 .green{
@@ -52,6 +55,7 @@ table{
     padding-left: 5%;
     width:85px;
     cursor:pointer;
+    border: 2px solid white;
 
 
 }
@@ -62,6 +66,7 @@ table{
     padding-left: 5%;
     width:85px;
     cursor:pointer;
+    border: 2px solid white;
 
 }
 .random{
