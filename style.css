@@ -1,0 +1,115 @@
+table{
+    width: 500px;
+     border-radius: 2px;
+     border: 1px solid #CCC;
+     padding: 10px;
+     color:#191818; 
+     font-size: 14px;
+     margin-top: 10px;
+    float: right;
+    margin-right: 10%;       
+}
+ .blue{
+    background:#0D6BDE;
+    font-size:60px;
+    font-family:Brush Script MT;
+    padding-left: 5%;
+    width:85px;
+    cursor:pointer;
+    
+ }
+ .red{
+    background:#E63434;
+    font-size:60px;
+    font-family:Brush Script MT;
+    padding-left: 5%;
+    width:85px;
+    cursor:pointer;
+ 
+}
+.pink{
+    background:pink;
+    font-size:60px;
+    font-family:Brush Script MT;
+    padding-left: 5%;
+    width:85px;
+    cursor:pointer;
+ 
+}
+.yellow{
+    background:#F4B108;
+    font-size:60px;
+    font-family:Brush Script MT;
+    padding-left: 5%;
+    width:85px;
+    cursor:pointer;
+
+}
+.green{
+    background:green;
+    font-size:60px;
+    font-family:Brush Script MT;
+    padding-left: 5%;
+    width:85px;
+    cursor:pointer;
+
+
+}
+.white{
+    background:#D3D0D0;  
+    font-size:60px;
+    font-family:Brush Script MT;
+    padding-left: 5%;
+    width:85px;
+    cursor:pointer;
+
+}
+.random{
+    border: 2px solid black;
+    font-size: 60px;
+    color:#4A0F40;
+    font-family:Luminari, fantasy;
+    padding-left: 5%;
+    width:85px;
+    cursor:pointer;
+}
+.randomfin{
+
+    border: 2px solid black;
+    font-size: 60px;
+    color:#4A0F40;
+    font-family:Luminari, fantasy;
+    padding-left: 5%;
+    width:85px;
+    cursor:pointer;
+
+}
+#posicioninicialyfinal{
+   
+    color: #fff;
+    background-color: #0067ab;
+    text-shadow: rgba(0,0,0,0.24) 0 1px 0;
+    box-shadow: rgba(255,255,255,0.24) 0 2px 0 0 inset,#fff 0 1px 0 0;
+    border: 1px solid #0164a5;
+    border-radius: 2px;
+    width:350px;
+    padding-top: 1%;
+    height:45px;
+    font-size: 25px;
+    padding-left: 100px;
+    margin:3%;
+
+}
+input[type='submit']{
+    padding: 10px 25px 8px;
+    color: #fff;
+    background-color: #0067ab;
+    text-shadow: rgba(0,0,0,0.24) 0 1px 0;
+    font-size: 16px;
+    box-shadow: rgba(255,255,255,0.24) 0 2px 0 0 inset,#fff 0 1px 0 0;
+    border: 1px solid #0164a5;
+    border-radius: 2px;
+    margin-top: 10px;
+    cursor:pointer;
+    margin-left:15%;
+}
